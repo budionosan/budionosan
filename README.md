@@ -14,3 +14,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+You can call me Budi. 🌱 I’m currently learning data, machine learning and business intelligence. 
+
+Skills :
+- Python, R and SQL
+- TensorFlow
+- Tableau and Google Data Studio
+- Google Cloud Platform
+and counting.
+
+📫 How to reach me:
+Portfolio :
+- Tableau - https://public.tableau.com/profile/budionosan
+- Data Studio - https://datastudio.google.com/s/ny2cU7yeazc
+- Github - https://github.com/budionosan
+- Kaggle - https://kaggle.com/budionosan
+- Medium - https://medium.com/@budionosan
+and counting.
