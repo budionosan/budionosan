@@ -15,14 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-You can call me Budi. 🌱 I’m currently learning data, machine learning and business intelligence. 
+You can call me Budi. 🌱 I’m currently learning data, machine learning, business intelligence and cloud.
 
 Skills :
 - Python, R and SQL
 - TensorFlow
 - Tableau and Google Data Studio
 - Google Cloud Platform
-and counting.
 
 📫 How to reach me:
 Portfolio :
@@ -31,4 +30,3 @@ Portfolio :
 - Github - https://github.com/budionosan
 - Kaggle - https://kaggle.com/budionosan
 - Medium - https://medium.com/@budionosan
-and counting.
