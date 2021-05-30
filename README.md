@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-You can call me Budi. 🌱 I’m currently learning data, machine learning, business intelligence and cloud.
+You can call me Budi. 🌱 I’m currently learning data and machine learning.
 
 Skills :
 - Python, R and SQL
