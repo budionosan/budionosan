@@ -19,14 +19,12 @@ You can call me Budi. 🌱 I’m currently learning data, machine learning, busi
 
 Skills :
 - Python, R and SQL
-- TensorFlow
-- Tableau and Google Data Studio
+- Tableau
 - Google Cloud Platform
 
 📫 How to reach me:
 Portfolio :
 - Tableau - https://public.tableau.com/profile/budionosan
-- Data Studio - https://datastudio.google.com/s/ny2cU7yeazc
 - Github - https://github.com/budionosan
 - Kaggle - https://kaggle.com/budionosan
 - Medium - https://medium.com/@budionosan
